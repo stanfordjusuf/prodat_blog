@@ -24,7 +24,7 @@ const Header = () => {
           {categories.map((category, index) => (
             <Link key={index} href={`/category/${category.slug}`}><span className="md:float-right mt-2 align-middle text-orange ml-4 font-semibold cursor-pointer">{category.name}</span></Link>
           ))}
-          <Link href="http://www.prodatweb.com/"><a className="md:float-right mt-2 align-middle text-pink-600 ml-4 font-semibold cursor-pointer">Visit Prodat Community 🚀</a></Link>
+          <Link href="http://www.prodatweb.com"><p className="md:float-right mt-2 align-middle text-pink-600 ml-4 font-semibold cursor-pointer">Visit Prodat Community 🚀</p></Link>
         </div>
       </div>
     </div>
