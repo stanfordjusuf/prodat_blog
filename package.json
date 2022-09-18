@@ -1,5 +1,5 @@
 {
-  "name": "graphcms-blog",
+  "name": "prodat",
   "version": "0.1.0",
   "private": true,
   "engines": {
@@ -36,5 +36,17 @@
     "eslint-plugin-react-hooks": "^4.2.0",
     "postcss": "^8.3.8",
     "tailwindcss": "^2.2.7"
-  }
+  },
+  "main": ".eslintrc.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stanfordjusuf/prodat_blog.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stanfordjusuf/prodat_blog/issues"
+  },
+  "homepage": "https://github.com/stanfordjusuf/prodat_blog#readme",
+  "description": ""
 }
