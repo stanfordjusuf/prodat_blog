@@ -18,6 +18,7 @@ const Header = () => {
         <div className="md:float-left block">
           <Link href="/">
             <span className="logo cursor-pointer font-bold text-4xl text-orange">Prodat ⭐️</span>
+            <img src='/images/logo-2.png'/>
           </Link>
         </div>
         <div className="hidden md:float-left md:contents">
